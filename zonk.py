@@ -1,4 +1,4 @@
-
+#This is incomplete and does not work yet
 dir = str(input('\nEnter the direction you would like to go (e/w/n/s) or q to quit: \t'))
 dir = dir.lower()
 visited_rooms = 0
